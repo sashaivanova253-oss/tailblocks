@@ -1,0 +1,7 @@
+
+@import "tailwindcss";
+
+@theme {
+    --font-nuckle: "Nuckle", sans-serif;
+}
+
