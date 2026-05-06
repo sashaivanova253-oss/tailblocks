@@ -189,6 +189,18 @@
   }
 }
 @layer utilities {
+  .sticky {
+    position: sticky;
+  }
+  
+  .top-0 {
+    top: 0;
+  }
+  
+  .z-50 {
+    z-index: 50;
+  }
+  
   .collapse {
     visibility: collapse;
   }
